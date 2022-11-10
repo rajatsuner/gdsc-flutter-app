@@ -1,4 +1,4 @@
-# gdsc_ipsa
+# GDSC IPS Academy Flutter App
 
 A new Flutter project.
 

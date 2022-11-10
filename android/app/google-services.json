@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466131206189",
+    "firebase_url": "https://gdsc-ipsa-86efa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gdsc-ipsa-86efa",
+    "storage_bucket": "gdsc-ipsa-86efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466131206189:android:d8e06ca1a190181b77f8a4",
+        "android_client_info": {
+          "package_name": "com.gdsc.ipsa.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466131206189-gmb6vnelrhjciuqfq84hftmv7nh7adnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rLr5v9hBs-RBDkAyJPBBhHu9SdMLFd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466131206189-gmb6vnelrhjciuqfq84hftmv7nh7adnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

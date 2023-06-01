@@ -8,7 +8,7 @@
 
 <b> Problem Statement: </b>
 
-Getting Information and all the resource related to Google Developer Student Club PHCET and all the Events, Hackathons, etc. that we conduct gets complicated as Information and resources are divided on multiple platforms such as the DSC Community Website, WhatsApp Group of GDSC IPS Academy, GitHub Org of GDSC IPSA and so on. Specific Technologies can be used to Implement a solution to ease the process and concentrate all the Information related to GDSC PHCET on a single platform.
+Getting Information and all the resource related to Google Developer Student Club IPS Academy and all the Events, Hackathons, etc. that we conduct gets complicated as Information and resources are divided on multiple platforms such as the DSC Community Website, WhatsApp Group of GDSC IPS Academy, GitHub Org of GDSC IPSA and so on. Specific Technologies can be used to Implement a solution to ease the process and concentrate all the Information related to GDSC PHCET on a single platform.
 
 <b> Proposed Solution : </b>
 
